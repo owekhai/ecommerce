@@ -88,7 +88,7 @@ The data source is a CSV file named "ecommerce.csv" which is gotten from techrat
 ### Conclusion
 - The enitre distribution shows that low product do arrive on time as against other product
 - The shipment of product is mostly convey with ship with high rating
-- Customer prefer using ship to convey product that has great mass of weight because of the discount.
+- Customer prefer using ship to convey product that has great mass of weight because of the discount
 - High discount shows high product rating, for other product to receive high product ratings from customers they need to step up the ratings for other products.
 
 
